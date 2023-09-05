@@ -1,0 +1,18 @@
+{
+  "name": "is-no-odd",
+  "version": "0.2.0",
+  "description": "package determines that the number is no odd",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Grachev Daniil",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gggchaseggg/is-no-odd.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gggchaseggg/is-no-odd/issues"
+  },
+  "homepage": "https://github.com/gggchaseggg/is-no-odd#readme"
+}
