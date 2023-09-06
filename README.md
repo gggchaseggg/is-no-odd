@@ -1,4 +1,4 @@
-# is-no-odd v0.2.0 [![NPM version](https://img.shields.io/npm/v/is-no-odd.svg?style=flat)](https://www.npmjs.com/package/is-no-odd) [![NPM monthly downloads](https://img.shields.io/npm/dm/is-no-odd.svg-num?style=flat)](https://www.npmjs.com/package/is-no-odd) [![NPM total downloads](https://img.shields.io/npm/dt/is-no-odd.svg?style=flat)](https://www.npmjs.com/package/is-no-odd)
+# is-no-odd [![NPM version](https://img.shields.io/npm/v/is-no-odd.svg?style=flat)](https://www.npmjs.com/package/is-no-odd) [![NPM monthly downloads](https://img.shields.io/npm/dm/is-no-odd.svg-num?style=flat)](https://www.npmjs.com/package/is-no-odd) [![NPM total downloads](https://img.shields.io/npm/dt/is-no-odd.svg?style=flat)](https://www.npmjs.com/package/is-no-odd)
 Package determines that the number is no odd
 
 ## Install
