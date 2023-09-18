@@ -12,10 +12,13 @@ $ npm install is-no-odd
 ## Usage
 
 ```js
-import isNoOdd from 'is-no-odd'
+import { isNoOdd } from 'is-no-odd'
 
 console.log(isNoOdd(1)) //=> false
 console.log(isNoOdd(2)) //=> true
+
+console.log(isNoOdd('1')) //=> false
+console.log(isNoOdd('2')) //=> true
 ```
 
 ## Contributing
